@@ -1,2 +1,2 @@
 # Football-Anaytics-with-Python
-A repository containing some examples on applying data analysis on football using python
+A repository containing examples on applying data visualization tools for exploring, analysing and comparing football data using python
